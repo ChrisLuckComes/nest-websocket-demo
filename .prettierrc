@@ -1,0 +1,6 @@
+{
+  "singleQuote": false,
+  "quoteProps": "as-needed",
+  "trailingComma": "none",
+  "endOfLine": "auto"
+}
